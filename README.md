@@ -5,7 +5,7 @@
 <br>
 <!-- Banner from https://github.com/kha7iq -->
 <p align="center">
-  <img src="/Assets/banner_text.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+  <img src="/Assets/banner.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 </p>
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> 
