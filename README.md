@@ -13,7 +13,7 @@
   <img alt="MostUsedLanguage_card" height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0077&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php&size_weight=0.5&count_weight=0.5">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayush0077/ayush0077/output/dist/github-contribution-grid-snake.svg" align="center" alt="snake">
+  <img src="https://github.com/ayush0077/ayush0077/blob/output/github-contribution-grid-snake-dark.svg" align="center" alt="snake">
 
 </p>
 
