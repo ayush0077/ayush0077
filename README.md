@@ -15,7 +15,9 @@
 <p align="center">
   <img src="https://github.com/ayush0077/ayush0077/blob/output/github-contribution-grid-snake-dark.svg" align="center" alt="snake">
 </p>
-
+<p align="center">
+  <strong>Profile Views</strong>
+</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/ayush0077/count.svg" alt="Profile Views">
 </p>
