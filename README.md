@@ -1,4 +1,4 @@
-## <p align="center">Hello there,I'm Ayush Tamrakar👋</p> 
+## <p align="center">👋Hello there,I'm Ayush Tamrakar👋</p> 
 
 <p align="center">
   <img src="https://github.com/ayush0077/ayush0077/blob/output/white_comp.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
