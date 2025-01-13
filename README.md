@@ -1,8 +1,13 @@
-## <p align="center">Hello there 👋</p> 
+## <p align="center">Hello there,I'm Ayush Tamrakar👋</p> 
 
 <p align="center">
-  <img src="/Assets/banner.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+  <img src="https://github.com/ayush0077/ayush0077/blob/output/white_comp.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 </p>
+
+- 👨🏿‍💻 All of my projects are available at **[www.github.com/ayush0077](https://www.github.com/ayush0077)**
+- 💼 Portfolio at **[www.ayush-tamrakar.com.np](http://www.ayush-tamrakar.com.np)**
+- 📫 How to reach me **ayush.tamrakar.90@gmail.com**
+- 💼 LinkedIn profile **[https://www.linkedin.com/in/ayush-tamrakar-618902191/](https://www.linkedin.com/in/ayush-tamrakar-618902191/)**
 
 ## My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="32px">
 
@@ -13,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ayush0077/ayush0077/blob/output/github-contribution-grid-snake-dark.svg" align="center" alt="GitHub Snake Animation">
+  <img src="https://github.com/ayush0077/ayush0077/blob/output/github-contribution-grid-snake.svg" align="center" alt="GitHub Snake Animation">
 </p>
 <p align="center">
   <strong>Profile Views</strong>
@@ -22,7 +27,4 @@
   <img src="https://profile-counter.glitch.me/ayush0077/count.svg" alt="Profile Views">
 </p>
 
-- 👨🏿‍💻 All of my projects are available at **[www.github.com/ayush0077](https://www.github.com/ayush0077)**
-- 💼 Portfolio at **[www.ayush-tamrakar.com.np](http://www.ayush-tamrakar.com.np)**
-- 📫 How to reach me **ayush.tamrakar.90@gmail.com**
-- 💼 LinkedIn profile **[https://www.linkedin.com/in/ayush-tamrakar-618902191/](https://www.linkedin.com/in/ayush-tamrakar-618902191/)**
+
