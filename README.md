@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/ayush0077/ayush0077/blob/output/white_comp.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 </p>
+![white_comp](https://github.com/user-attachments/assets/1c5de229-0277-4aee-bd8d-af4ff50ae069)
 
 - 👨🏿‍💻 All of my projects are available at **[www.github.com/ayush0077](https://www.github.com/ayush0077)**
 - 💼 Portfolio at **[www.ayush-tamrakar.com.np](http://www.ayush-tamrakar.com.np)**
