@@ -1,6 +1,8 @@
 ## <p align="center">👋Hello there,I'm Ayush Tamrakar👋</p> 
 
-![white_comp](https://github.com/user-attachments/assets/7411c9c9-d3c7-4251-b227-1dbdf6471201)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7411c9c9-d3c7-4251-b227-1dbdf6471201" alt="White comp" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 30px;" />
+</p>
 
 
 - 👨🏿‍💻 All of my projects are available at **[www.github.com/ayush0077](https://www.github.com/ayush0077)**
